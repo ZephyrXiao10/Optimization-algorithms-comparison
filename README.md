@@ -3,4 +3,14 @@ A comparison between 4 different optimization quantitative algorithms, containin
 
 The detail of 4 optimized algorithms could be seen in the file 几种优化方法比较.pdf, which is wrritten in Chinese as a report to my director when I was working in MY capital.
 
+This project contains 4 kinds of files 
+
+source code(.py)
+
+data file(.csv)
+
+result(.png)
+
+report(.pdf)
+
 ALL the algorithms and python scripts were developed by myself.
